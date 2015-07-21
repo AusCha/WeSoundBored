@@ -12,8 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        HEAD
-        android:text="Amador"
+        android:text="Austin"
         android:id="@+id/button"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
